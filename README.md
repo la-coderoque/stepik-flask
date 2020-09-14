@@ -1,1 +1,1 @@
-# stepik-flask
+# flask training project
